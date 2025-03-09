@@ -1,6 +1,6 @@
 # Hi, I'm Cory! 👋
-## I build full-stack development projects, and whatever else comes to my mind I love to create.
-### I am currently in a Full-Stack role for the Air-Force as a contractor doing modeling and simulation.
+## I build full-stack development projects, and whatever else comes to my mind I love to create, and aspire to be a great innovator.
+### I am currently in a Full-Stack role for the Air-Force as a contractor doing modeling and simulation on long-range Missile Strike Denfense.
 ### I do freelance web development on the side for organizations,clubs,etc. I have a passion for building tools and innovating and always being the best.
 **Full Stack Developer & React Native Enthusiast**  
 *Currently based in Ruston, LA*
