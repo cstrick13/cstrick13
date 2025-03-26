@@ -24,7 +24,7 @@
 
   🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 
-- Working on WASP, an portal application for Global Strike Airforce command
+
 - Developing JANA, free cross-platform AI software used for network analyst and monitoring.
 - 🤞 𝙾𝚗𝚎 𝚍𝚊𝚢 𝙸 𝚑𝚘𝚙𝚎 𝚝𝚘...
   - Own/Co-own my own tech company
